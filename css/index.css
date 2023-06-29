@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.nav {
+    background-color: #f7d10c;
+    padding: 10px;
+}
+
+.conteudo {
+    background-image: url('/imgs/fundoRoxo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.conteudoGeral {
+    color: #ffffff;
+    text-align: center;
+    padding: 500px;
+    text-shadow: 3px 1px 0px rgba(0,0,0,0.58);
+}
+
+a {
+    text-decoration:none;
+}
+
+.btnProdutos{
+    color: #f7d10c;
+    background-color: #2f1604;
+    cursor: pointer;
+    box-shadow: 1px 2px 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btnFacaPedido {
+    color: black;
+    background-color: #e75d82;
+    cursor: pointer;
+    box-shadow: 1px 2px 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btnNossProdutos{
+    color: black;
+    background-color: #ffffff;
+    cursor: pointer;
+    box-shadow: 1px 2px 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
